@@ -1,0 +1,149 @@
+{
+    "tasks": [{
+
+        "task_id": "t_01",
+        "task_name": "Improve the constrast to make jared Happy",
+        "task_owner": "images/user6.jpg",
+        "status": "red"
+    }, {
+
+        "task_id": "t_02",
+        "task_name": "Header illustartion",
+        "task_owner": "images/user3.jpg",
+        "status": "green"
+
+    }, {
+
+        "task_id": "t_03",
+        "task_name": "Icons for dashboard",
+        "task_owner": "images/user4.jpg",
+        "status": "green"
+
+    }, {
+
+        "task_id": "t_04",
+        "task_name": "Design new illustration for the app onboarding screens using slack as inspiration",
+        "task_owner": "images/user2.jpg",
+        "status": "red"
+    }, {
+
+        "task_id": "t_05",
+        "task_name": "slider animation",
+        "task_owner": "images/user3.jpg",
+        "status": "yellow"
+
+    }],
+
+    "in_progress": [{
+
+        "task_id": "t_01",
+        "task_name": "Onboarding screens",
+        "task_owner": "images/user6.jpg",
+        "status": "yellow"
+
+
+    }, {
+
+        "task_id": "t_02",
+        "task_name": "Login error",
+        "task_owner": "images/user4.jpg",
+        "status": "green"
+
+
+    }, {
+
+        "task_id": "t_03",
+        "task_name": "create a new logo for the web app",
+        "task_owner": "images/user2.jpg",
+        "status": "green"
+
+
+    }, {
+
+        "task_id": "t_04",
+        "task_name": "Improve the constrast to make jared",
+        "task_owner": "images/user3.jpg",
+        "status": "red"
+    }, {
+
+        "task_id": "t_05",
+        "task_name": "Head illustration",
+        "task_owner": "images/user6.jpg",
+        "status": "green"
+
+
+    }, {
+        "task_id": "t_06",
+        "task_name": "Icons for dashboard",
+        "task_owner": "images/user2.jpg",
+        "status": "green"
+
+    }],
+
+    "in_review": [{
+
+        "task_id": "t_01",
+        "task_name": "The account setting screen need to be mocked",
+        "task_owner": "images/user4.jpg",
+        "status": "green"
+
+
+    }, {
+
+        "task_id": "t_02",
+        "task_name": "Replace dashboard icons with more color ones",
+        "task_owner": "images/user2.jpg",
+        "status": "red"
+
+
+    }, {
+
+        "task_id": "t_03",
+        "task_name": "Head illustration",
+        "task_owner": "images/user6.jpg",
+        "status": "green"
+
+
+    }, {
+        "task_id": "t_04",
+        "task_name": "Icons for dashboard",
+        "task_owner": "images/user4.jpg",
+        "status": "yellow"
+
+
+    }],
+    "approved": [{
+
+        "task_id": "t_01",
+        "task_name": "The account setting screen need to be mocked",
+        "task_owner": "images/user6.jpg",
+        "status": "green"
+
+
+    }, {
+
+        "task_id": "t_02",
+        "task_name": "Replace dashboard icons with more color ones",
+        "task_owner": "images/user2.jpg",
+        "status": "red"
+
+
+    }, {
+
+        "task_id": "t_03",
+        "task_name": "Design new illustration for the app onboarding screens using slack as inspiration",
+        "task_owner": "images/user3.jpg",
+        "status": "red"
+    }, {
+
+        "task_id": "t_04",
+        "task_name": "slider animation",
+        "task_owner": "images/user6.jpg",
+        "status": "yellow"
+
+
+    }]
+
+
+
+}
