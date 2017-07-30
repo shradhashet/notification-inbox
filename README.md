@@ -1,8 +1,8 @@
 # notification-inbox
 https://notification-inbox-13263.netlify.com/
 
-Notification inbox is the dashboard of the tasks,which shows details of the all task,by grouping task 
-based on the current status and also shows user detials
+Notification inbox is the dashboard represnting tasks assigned ,It shows details of the all tasks,by grouping tasks 
+based on the current status and also shows user detials.
 
 
 ## Features
