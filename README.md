@@ -1,6 +1,16 @@
 # notification-inbox
-
 https://notification-inbox-13263.netlify.com/
+
+Notification inbox is the dashboard of the tasks,which shows details of the all task,by grouping task 
+based on the current status and also shows user detials
+
+
+## Features
++ **Responsive Layout (all Mobile Device, Tablet & Desktop.)**
++ **Developed using Use only Native Javascipt and Jquery**
++ **SASS for coding CSS**
++ **Cross Browser Compatibility**
+
 
 ## dependencies
 
@@ -8,14 +18,14 @@ No dependencies as such, all required libraries are included
 
 ## Technologies used
 
-#### JQuery
+###  JQuery
 
-#### javscript
+### javscript
 
-#### jQuery Templating (plugin)
+### jQuery Templating (plugin)
 jQuery plugin for loading and using templates. The plugin is designed to be simple yet powerful, and supports loading templates from within the page, or using AJAX to load html files.
 
-#### Sass
+### Sass
 Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 
 Sass has two syntaxes. The new main syntax (as of Sass 3) is known as "SCSS" (for "Sassy CSS"), and is a superset of CSS's syntax. This means that every valid CSS stylesheet is valid SCSS as well. SCSS files use the extension .scss.
@@ -48,11 +58,6 @@ With Bootstrap, you get extensive and beautiful documentation for common HTML el
  + taskinbox.js
 
 
-## Features
-+ **Responsive Layout (all Mobile Device, Tablet & Desktop.)**
-+ **Developed using Use only Native Javascipt and Jquery**
-+ **SASS for coding CSS**
-+ **Cross Browser Compatibility**
 
 
 
