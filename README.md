@@ -4,14 +4,13 @@ https://notification-inbox-13263.netlify.com/
 
 ## dependencies
 
-No dependencieas , all required libraries are included
+No dependencies as such, all required libraries are included
 
 ## Technologies used
 
 #### JQuery
 
 #### javscript
-
 
 #### jQuery Templating (plugin)
 jQuery plugin for loading and using templates. The plugin is designed to be simple yet powerful, and supports loading templates from within the page, or using AJAX to load html files.
@@ -34,30 +33,19 @@ With Bootstrap, you get extensive and beautiful documentation for common HTML el
 
 ### Structure and Files
 
- + js
-    + src
-	    + controllers
-        + models
-        + router
-        + templates
-        + views
-	    + application.js
-	    + main.js
-  + images
-  + libs
-	+ bootstrap
-	+ jquery
-	+ require
-	+ backbone 
-	+ backbone.marionette
-	+ handlebars
-	+ hbs
-	+ moment
-	+ underscore
  + css
- + less
+     +styles.css
+ + images
+ + libs
+      + bootstrap
+      + jquery
+      + jquery.tmpl.min.js
+ + sass
+      +styles.scss
+ + data
+       + tasks.json
  + index.html
- + package.json
+ + taskinbox.js
 
 
 ## Features
