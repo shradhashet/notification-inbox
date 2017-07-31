@@ -41,6 +41,9 @@ Bootstrap easily and efficiently scales your websites and applications with a si
 + Full of features
 With Bootstrap, you get extensive and beautiful documentation for common HTML elements, dozens of custom HTML and CSS components, and awesome jQuery plugins.
 
+### Gulp
+Gulp to automate build process 
+
 ### Structure and Files
 
  + css
