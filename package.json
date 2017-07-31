@@ -1,0 +1,27 @@
+{
+  "name": "notification-inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taskInbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shradhashet/notification-inbox.git"
+  },
+  "keywords": [
+    "notification",
+    "sass"
+  ],
+  "author": "shradha shet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shradhashet/notification-inbox/issues"
+  },
+  "homepage": "https://github.com/shradhashet/notification-inbox#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
