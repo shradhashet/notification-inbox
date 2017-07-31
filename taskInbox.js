@@ -1,3 +1,4 @@
+$(document).ready(function(){
 
 var tasks = (function() {
 	$.ajax({
@@ -7,7 +8,7 @@ var tasks = (function() {
 
 	}).success(function(data) {
 		var template = _.template($('#taskTemplate').html());
-		$('.task-body').append(template({
+		$('.task-body').html(template({
 			tasks: data.tasks,
 			in_progress: data.in_progress,
 			in_review: data.in_review,
@@ -22,3 +23,4 @@ var tasks = (function() {
 
 
 })();
+});
