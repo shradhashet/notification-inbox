@@ -22,8 +22,8 @@ No dependencies as such, all required libraries are included
 
 ### javscript
 
-### jQuery Templating (plugin)
-jQuery plugin for loading and using templates. The plugin is designed to be simple yet powerful, and supports loading templates from within the page, or using AJAX to load html files.
+### Underscore template
+
 
 ### Sass
 Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
